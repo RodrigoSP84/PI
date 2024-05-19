@@ -15,7 +15,7 @@
 
 O sistema de gestão acadêmica apresentado aqui tem como finalidade facilitar o gerenciamento e trazer vantagens a instituição, aos alunos, corpo docente e a equipe administrativa. 
 ***
-## Diagrama de casos de usos
+## Diagrama de Casos de Uso e Diagrama de Classes
 
 ![PI - Desenvolvimento de Sistemas Orientado a Objetos _page-0002](https://github.com/RodrigoSP84/PI/assets/132099868/915e0155-cfc6-4ecb-a878-0c82abaf1f13)
 ![PI - Desenvolvimento de Sistemas Orientado a Objetos _page-0003](https://github.com/RodrigoSP84/PI/assets/132099868/de517c71-5051-47a3-9e49-6186ec5f2118)
